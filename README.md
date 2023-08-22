@@ -30,3 +30,11 @@ The Questions project is a Q&A application where users can ask and answer questi
 
    ```bash
    git clone https://github.com/gilmore-1/JavaScript-Projects.git
+
+2. Navigate to the project you're interested in:
+
+   ```bash
+   cd JavaScript-Projects/Project-Name
+
+
+3. Open the index.html file in your preferred web browser to interact with the project
